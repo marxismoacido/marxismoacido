@@ -1,4 +1,4 @@
-baseURL = 'http://marxismoacido.netlify.com'
+baseURL = '//marxismoacido.netlify.com'
 languageCode = 'pt-br'
 title = 'Marxismo Ácido'
 theme = 'anubis'
