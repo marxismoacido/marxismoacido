@@ -1,11 +1,11 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "pt-br"
+languageName = "Português (Brasil)"
 weight = 1
-title = "Blowfish"
+title = "Marxismo Ácido"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "PT"
+  isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"

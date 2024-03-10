@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>//localhost:1313/post/hello-world/</loc>
+    <lastmod>2024-03-09T15:00:43-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-03-09T15:00:43-03:00</lastmod>
     <changefreq>daily</changefreq>
@@ -11,6 +17,12 @@
   <url>
     <loc>//localhost:1313/post/</loc>
     <lastmod>2024-03-09T15:00:43-03:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/post/comunismo-acido/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
